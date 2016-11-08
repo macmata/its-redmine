@@ -1,0 +1,12 @@
+include_defs('//lib/maven.defs')
+
+maven_jar(
+  name = 'redmine-api',
+  id = 'com.taskadapter:redmine-java-api:3.0.0',
+  license = 'Apache2.0',
+)
+maven_jar(
+  name = 'json-api',
+  id = 'org.json:json:20160810',
+  license = 'moment',
+)

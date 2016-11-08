@@ -1,0 +1,13 @@
+/.buckversion
+/.buckd
+/buck-out
+/bucklets
+/target
+/.classpath
+/.project
+/.settings/org.maven.ide.eclipse.prefs
+/.settings/org.eclipse.m2e.core.prefs
+.idea
+.settings
+plugins_its_redmine.iml
+its-redmine.iml
